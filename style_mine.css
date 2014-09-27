@@ -1,5 +1,6 @@
 
-.person { display: block; margin-bottom: 3em; padding-bottom: 2em;}
+.person { display: block;}
+.person-large { margin-bottom: 3em; padding-bottom: 2em;}
 .person img.picture { max-height: 20em;  max-width: 20em; float: left;
  margin-right: 1em; }
 .person {clear: left;}
