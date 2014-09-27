@@ -1,11 +1,11 @@
 
-li.person { display: block; margin-bottom: 3em; padding-bottom: 2em;}
-li.person img.picture { max-height: 20em;  max-width: 20em; float: left;
+.person { display: block; margin-bottom: 3em; padding-bottom: 2em;}
+.person img.picture { max-height: 20em;  max-width: 20em; float: left;
  margin-right: 1em; }
-li.person {clear: left;}
-li.person p.title {font-weight: bold;}
-li.person p.bio { clear: left; display:block; margin-top: 1em;}
+.person {clear: left;}
+.person p.title {font-weight: bold;}
+.person p.bio { clear: left; display:block; margin-top: 1em;}
 
-li.person  img.logo { float: right; height: 4em; clear: right;}
+.person img.logo { float: right; height: 4em; clear: right;}
 
 .site-tagline { color:red;}
