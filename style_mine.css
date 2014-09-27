@@ -2,13 +2,13 @@
 .person-large { display: block;}
 
 .person-large { margin-bottom: 3em; padding-bottom: 2em;}
-.person img.picture { max-height: 20em;  max-width: 20em; float: left;
+img.picture { max-height: 20em;  max-width: 20em; float: left;
  margin-right: 1em; }
 .person {clear: left;}
 .person p.title {font-weight: bold;}
 .person p.bio { clear: left; display:block; margin-top: 1em;}
 .person p.affiliation {margin-top: 0; padding-top: 0;}
-.person img.logo { float: right; width: 6em; clear: right;}
+img.logo { float: right; width: 6em; clear: right;}
 
 .site-tagline { color:red;}
 
