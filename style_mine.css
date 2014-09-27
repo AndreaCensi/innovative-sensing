@@ -11,4 +11,7 @@
 
 .site-tagline { color:red;}
 
-#gallery img { height: 10em;}
+#gallery img { height: 10em;
+
+border: solid 0px #888888;
+        box-shadow: 2px 2px 8px #888888;}
