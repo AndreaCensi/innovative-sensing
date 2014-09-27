@@ -4,3 +4,5 @@ li.person p.title {font-weight: bold;}
 li.person p.bio {clear: left;}
 
 li.person p.affiliation img.logo { float: right; height: 4em;}
+
+.site-tagline { color:red;}
