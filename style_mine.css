@@ -4,7 +4,7 @@ li.person img.picture { max-height: 15em;  max-width: 15em; float: left;
  margin-right: 1em; }
 li.person {clear: left;}
 li.person p.title {font-weight: bold;}
-li.person p.bio { clear: left; display:block;}
+li.person p.bio { clear: left; display:block; margin-top: 1em;}
 
 li.person p.affiliation img.logo { float: right; height: 4em; clear: right;}
 
