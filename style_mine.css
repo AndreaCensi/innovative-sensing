@@ -1,6 +1,6 @@
 
 li.person { display: block;}
-li.person img.picture { height: 15em; float: left; margin: 1em;}
+li.person img.picture { max-height: 15em;  max-width: 15em; float: left; margin: 1em;}
 li.person {clear: left;}
 li.person p.title {font-weight: bold;}
 li.person p.bio { }
