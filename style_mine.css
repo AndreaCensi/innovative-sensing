@@ -1,2 +1,6 @@
-li.person img { width: 10em; float: left;}
+li.person img.picture { height: 15em; float: left; margin: 1em;}
 li.person {clear: left;}
+li.person p.title {font-weight: bold;}
+li.person p.bio {clear: left;}
+
+li.person p.affiliation img.logo { float: right; height: 4em;}
