@@ -1,0 +1,59 @@
+INNOVATIVE SENSING IN ROBOTICS - Focus on Neuromorphic Sensors
+- an half-day workshop at ICRA 2015
+
+Date: May 30, 2015, morning 
+Web page: http://innovative-sensing.mit.edu
+
+Description
+-----------
+
+This workshop covers innovative sensing devices, with 
+particular focus on neuromorphic vision sensors, as well as 
+the inference, learning, and control methods needed to 
+take advantage of that hardware. 
+
+Perception is still one of the main issues in robotics. 
+In the past, leaps in the functionalities of robots 
+were jumpstarted by the availability of new sensor types 
+(the laser range-finder in early 2000s, the 3D cameras in the
+2010s). So what will be next enabling technology in sensing? 
+
+Topics of interest include the emerging field of neuromorphic
+vision sensors (DVS, ATIS, etc.), which might be the technology 
+enabling high performance yet low power small UAVs, as well as 
+other unconventional vision systems (4D light field/polydioptrical 
+cameras, template-based optical computing) and other currently 
+under-utilized sensor modalities.
+
+
+Invited talks
+----------------
+
+The invited talks as a whole will provide a coherent tutorial on: 
+* neuromorphic vision sensors
+* spike-based and AER-based algorithms
+* neuromorphic computation substrates (including memristors)
+* neurobiology of insects' visual circuits
+
+The speakers are:
+* Jörg Conradt (Technische Universität München)  
+* Christian Brandli (IniLabs)
+* Andrew Straw (Institute of Molecular Pathology, Vienna)
+* Mirko Prezioso (UCSB)
+* Deepak Khosla (HRL Laboratories)
+
+Contributed talks
+-------------------
+
+We are looking forward to receive any in-topic submissions 
+including late-blooming results. Please submit a 1-page abstract, 
+a full paper, or directly a set of slides to the organizers. 
+
+Deadline: May 1 
+Notification: May 8
+
+Organizers:
+* Andrea Censi (MIT) <censi@mit.edu>
+* Davide Scaramuzza (University of Zurich) <sdavide@ifi.uzh.ch>
+
+
