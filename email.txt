@@ -1,11 +1,6 @@
-INNOVATIVE SENSING IN ROBOTICS - Focus on Neuromorphic Sensors
-- an half-day workshop at ICRA 2015
-
-Date: May 30, 2015, morning 
-Web page: http://innovative-sensing.mit.edu
-
-Description
------------
+ICRA 2015 Workshop on Innovative Sensing in Robotics - Focus on Neuromorphic Sensors
+May 30, 2015, morning 
+http://innovative-sensing.mit.edu
 
 This workshop covers innovative sensing devices, with 
 particular focus on neuromorphic vision sensors, as well as 
