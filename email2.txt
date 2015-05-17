@@ -1,0 +1,35 @@
+ICRA 2015 Workshop on Innovative Sensing in Robotics - Focus on Neuromorphic Sensors
+
+May 30, 2015, morning 
+
+http://innovative-sensing.mit.edu
+
+This workshop will provide a coherent tutorial on: 
+* neuromorphic vision sensors
+* spike-based and AER-based algorithms
+* neuromorphic computation substrates (including memristors)
+* neurobiology of insects' visual circuits
+
+Program:
+
+8:30-8:45 - introductory remarks
+8:45-9:15 - Jörg Conradt (Technische Universität München) 
+ "Tutorial part 1: Introduction to neuromorphic sensors and computation"
+9:15-9:45 - Christian Brandli (Insightness) 
+  "Tutorial part 2: Introduction to neuromorphic vision sensors"
+9:45-10:00 - Michael Milford (QUT)
+  "Place Recognition with Event-based Cameras and a Neural Implementation of SeqSLAM"
+
+10:30-11:00 - Andrew Straw (Institute of Molecular Pathology, Vienna) 
+  "Neural circuits for visual processing in the fruit fly"
+11:00-11:25 - Mirko Prezioso (UCSB) 
+  "Operation of a memristor-based single layer neural network".
+11:25-11:50 - Deepak Khosla (HRL Laboratories) 
+  "Neuromorphic technologies for energy-efficient video processing."
+11:50-12:00 - discussion
+
+Organizers:
+* Andrea Censi (MIT) <censi@mit.edu>
+* Davide Scaramuzza (University of Zurich) <sdavide@ifi.uzh.ch>
+
+
